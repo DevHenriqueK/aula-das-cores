@@ -1,6 +1,6 @@
 div {
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
     margin: 10px 0;
     padding: 10px;
     color: #ffffff;
@@ -8,7 +8,7 @@ div {
 }
 
 .nome-da-cor {
-    background-color: green;
+    background-color: orange;
 }
 
 .rgb {
