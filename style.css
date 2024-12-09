@@ -1,0 +1,32 @@
+div {
+    height: 100px;
+    width: 100px;
+    margin: 10px 0;
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.nome-da-cor {
+    background-color: green;
+}
+
+.rgb {
+    background-color: rgb(255, 0, 255);
+}
+
+.rgba {
+    background-color: rgba(255, 244, 0, 0.5);
+}
+
+.hexadecimal {
+    background-color: #1309ef;
+}
+
+.hsl {
+    background-color: hsl(360, 50%, 40%);
+}
+
+.hsla {
+    background-color: hsla(76, 44%, 67%, 0.80);
+}
